@@ -1,0 +1,5 @@
+.wholecontainer{
+  display: block;
+  justify-content: space-between;
+  color: blue;
+}
